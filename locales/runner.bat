@@ -1,0 +1,1 @@
+start /b school_backend\runner.exe && start /b school_server\runner.exe

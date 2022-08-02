@@ -1,0 +1,1 @@
+cd school_backend & updater.exe & cd .. & cd school_frontend & updater.exe

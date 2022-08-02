@@ -1,0 +1,1 @@
+taskkill /f /IM runner.exe && taskkill /f /IM python.exe && taskkill /f /IM nginx.exe
