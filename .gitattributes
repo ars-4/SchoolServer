@@ -1,2 +1,2 @@
-*.html linguist-generated=false
-*.htm linguist-generated=false
+*.html linguist-detectable=false 
+*.htm linguist-detectable=false 
